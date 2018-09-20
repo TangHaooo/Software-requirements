@@ -1,0 +1,35 @@
+CMM是一种用于评价软件承包能力以改善软件质量的方法，侧重于软件开发过程的管理及工程能力的提高与评估。
+   分为五个等级：一级为初始级，二级为可重复级，三级为已定义级，四级为已管理级，五级为优化级
+关键过程
+CMM2:可重复阶段(Repeatable)
+•	需求管理：requirement management
+•	软件项目计划：software project planning
+•	软件项目跟踪和监督：software project tracking oversight
+•	软件子合同管理：software subcontract management
+•	软件质量保证：software quality assurance
+•	软件配置管理：software configuratione management
+CMM3:已定义阶段(Defined)
+•	组织过程焦点：organization process focus
+•	组织过程定义：organization process definition
+•	培训大纲：training program
+•	集成软件管理：intergrated software management
+•	软件产品工程：software product engineering
+•	组间协调：intergroup coordination
+•	同行评审：peer review
+CMM4:已管理阶段（Managed）
+•	定量管理过程：quantitative process management
+•	软件质量管理：software quality management
+CMM5:优化阶段(Optimizing)
+•	缺陷预防：defect prevention
+•	技术改革管理：technology change management
+•	过程更改管理：process change management
+CMMI（Capability Maturity Model Integration，能力成熟度模型集成）
+
+
+我国那些企业获得何种CMM
+CMM5: 1摩托罗拉中国软件中心 （中国第一家通过CMM5的）
+2长沙新宇集团 （CMM5和CMM I 5，国内目前唯一通过CMM I 5级认证的软件企业 ）
+3大连埃森哲（Accenture）公司
+4联想软件公司
+5东软，等等，，，
+其中鼎新公司从1997年着手进行CMM认证工作。1999年7月通过第三方认证机构的CMM2认证。东大阿尔派公司于2000年10月通过第三方认证机构的CMM2认证。2001年1月，联想软件经过英国路透集团的严格评估，顺利通过CMM2认证。2001年6月26日，沈阳东软软件股份有限公司（原沈阳东大阿尔派软件股份有限公司）正式通过了CMM3级认证，成为中国首家通过CMM3级的软件企业。
